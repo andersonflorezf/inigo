@@ -6,11 +6,12 @@ import (
 	"./crypto"
 )
 
+/*
 var (
 	language = "Go"
 	company  = "google"
 	year     = 2022
-)
+)*/
 
 func main() {
 	//var language = "go"
